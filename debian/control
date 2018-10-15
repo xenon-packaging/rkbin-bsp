@@ -1,12 +1,12 @@
-Source: rkbin-rock64
+Source: rkbin-bsp-rock64
 Section: misc
 Priority: optional
 Maintainer: neon <rohan@garg.io>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
-Homepage: https://github.com/ayufan-rock64/rkbin-rock64
+Homepage: https://github.com/ayufan-rock64/rkbin-bsp-rock64
 
-Package: rkbin-rock64
+Package: rkbin-bsp-rock64
 Architecture: arm64
 Depends: ${misc:Depends}
 Description: binaries needed to boot rockchip platforms
