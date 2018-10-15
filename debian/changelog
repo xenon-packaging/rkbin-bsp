@@ -1,0 +1,5 @@
+rkbin-rock64 (0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- neon <rohan@garg.io>  Mon, 15 Oct 2018 11:26:16 +0200

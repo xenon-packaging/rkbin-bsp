@@ -1,0 +1,2 @@
+rk33/rk3328_bl31_v1.39.bin usr/lib/bl31/rk3328/
+rk33/rk3328_ddr_786MHz_v1.13.bin usr/lib/atf/rk3328/
